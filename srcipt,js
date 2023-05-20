@@ -1,3 +1,7 @@
 console.log("Hello to github")
 
 //comment to be pushed on github
+/*
+const welcomeMessage = document.getElementById("welcome-message"); 
+console.log(welcomeMessage.innerHTML);
+*/
